@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ElectricityCalculator</string>
+    <string name="electricity_bill_calculator">Electricity Bill Calculator</string>
+    <string name="electricity_logo">Electricity Logo</string>
+    <string name="enter_units_consumed">Enter units consumed (kWh)</string>
+    <string name="enter_rebate_percentage">Enter rebate percentage (0–5%)</string> <!-- Replaced - with en dash -->
+    <string name="calculate_bill">Calculate Bill</string>
+    <string name="clear">Clear</string>
+    <string name="result_will_be_displayed">Result will be displayed here</string>
+    <string name="about_me">About Me</string>
+    <string name="pfp">Profile Picture</string>
+    <string name="author">Ros Sara Elysa binti Rosfauzi</string>
+    <string name="stud_id">2022851158</string>
+    <string name="group">RCDCS2405B</string>
+    <string name="course">CDCS240</string>
+    <string name="go_to_mainpage">Go to Main Page</string>
+    <string name="visit_github">Visit Github</string>
+    <string name="copyright">© 2024 ElectricityBillCalculator By Rossara.</string>
+</resources>
